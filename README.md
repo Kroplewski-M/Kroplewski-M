@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning VueJS.
 - 👯 I’m looking to collaborate on anything front-end!
 - 📫 How to reach me: 
 [Twitter: @MateuszKroplew1](https://twitter.com/MateuszKroplew1) | [Linkedln: Mateusz Kroplewski](https://www.linkedin.com/in/mateusz-kroplewski-732239176/) | Portfolio: https://mateusz-k.dev
