@@ -1,5 +1,5 @@
-### Hello im Mateusz! 👋👨‍💻
 
+![Mateusz Kroplewski-2](https://user-images.githubusercontent.com/52794168/197341294-7c6042ff-500f-4a38-91bd-aee907235ac2.png)
 
 
 - 🔭 I’m currently working on personal projects
