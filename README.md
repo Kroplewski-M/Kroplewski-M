@@ -1,5 +1,5 @@
 
-![Mateusz Kroplewski-2](https://user-images.githubusercontent.com/52794168/197341294-7c6042ff-500f-4a38-91bd-aee907235ac2.png)
+![Grey and White Minimalist Twitter Header](https://github.com/Kroplewski-M/Kroplewski-M/assets/52794168/427c9c64-37f0-4874-a4f9-70a8e9c72f97)
 
 
 - 🔭 I’m currently working on personal projects
