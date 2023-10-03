@@ -26,6 +26,7 @@
 
 <div style="display:flex">
 <img src="https://imgs.search.brave.com/phwKskPx4wrsTZMfQm22GTflEZeq4z6WjWRMxeRDX_8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdkL01pY3Jvc29m/dF8uTkVUX2xvZ28u/c3Zn.svg" style="width:40px ">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" style="width:60px; margin-left-10px; ">  
 <div>
   
 
