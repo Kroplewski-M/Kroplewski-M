@@ -9,7 +9,7 @@
 - Originally from 🇵🇱 now living in the 🇬🇧
 - ⚡ Fun fact: Lofi music is always on while im coding
 
--My main technologies:
+<h3>Main technologies worked with:</h3>
 <div style="display:flex">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" style="width:40px ">
  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" style="width:40px ">
@@ -22,5 +22,10 @@
 <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" style="width:40px">
  <div>
 
+<h3>Currently Learning:</h3>
 
+<div style="display:flex">
+<img src="https://imgs.search.brave.com/phwKskPx4wrsTZMfQm22GTflEZeq4z6WjWRMxeRDX_8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdkL01pY3Jvc29m/dF8uTkVUX2xvZ28u/c3Zn.svg" style="width:40px ">  
+<div>
+  
 
