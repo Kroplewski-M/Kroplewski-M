@@ -1,7 +1,8 @@
 
-![Grey and White Minimalist Twitter Header](https://github.com/Kroplewski-M/Kroplewski-M/assets/52794168/427c9c64-37f0-4874-a4f9-70a8e9c72f97)
+![Grey and White Minimalist Twitter Header-2](https://github.com/Kroplewski-M/Kroplewski-M/assets/52794168/e98ee9e8-670b-4149-bfc6-21a88140fc4c)
 
-A front-end developer from the UK. I have a passion for web programming which originated from game development. I love creating challenging and fun projects and looking back how it was an empty repo at the beginning. I am currently studying web programming at University of Huddersfield.
+
+A software developer from the UK. I have a passion for programming which originated from game development. I love creating challenging and fun projects and looking back how it was an empty repo at the beginning. I am currently working as a undergraduate software developer @ Ascendant Solutions.
 
 <h3>Links</h3>
 <div style="display:flex">
