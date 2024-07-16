@@ -25,8 +25,8 @@ A software developer from the UK. I have a passion for programming which origina
 <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" style="width:40px">
 
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="width:40px ">  
-<img src="https://imgs.search.brave.com/phwKskPx4wrsTZMfQm22GTflEZeq4z6WjWRMxeRDX_8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdkL01pY3Jvc29m/dF8uTkVUX2xvZ28u/c3Zn.svg" style="width:40px ">  
-<img src="https://imgs.search.brave.com/-ch5-z2zu8U5YsFwN9Gg_Td1bWZ5tE8001blri277Z4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaW5mcmFnaXN0/aWNzLmNvbS9tYXJr/ZXRpbmcvV2Vic2l0/ZS9wcm9kdWN0cy9p/Z25pdGUtdWktbGFu/ZGluZy9ibGF6b3It/bG9nby5zdmc.svg" style="width:60px; margin-left-10px; ">  
+<img src="https://logowik.com/content/uploads/images/blazor1720789407.logowik.com.webp" style="width:60px ">  
+<img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" style="width:80px; ">  
 
  <div>
 
