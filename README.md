@@ -24,9 +24,9 @@ A software developer from the UK. I have a passion for programming, which origin
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" style="width:40px"> 
 <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" style="width:40px">
 
-<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="width:40px ">  
-<img src="https://logowik.com/content/uploads/images/blazor1720789407.logowik.com.webp" style="width:60px ">  
-<img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" style="width:80px; ">  
+<img src="https://imgs.search.brave.com/lxjoff-vQnrt12XwezrtVq-aOYhqRocjmlyb2Ao10xs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QyL0NfU2hhcnBf/TG9nb18yMDIzLnN2/Zw" style="width:40px ">  
+<img src="https://imgs.search.brave.com/tg693TXb5fOvVKyqFbJiXmlq6_4bmGa0kMqKAiRSRsM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibGF6/b3ItZ2FsbGVyeS5z/ZXJ2aWNlc3RhY2su/bmV0L2ltZy9ibGF6/b3Iuc3Zn" style="width:40px ">  
+<img src="https://imgs.search.brave.com/6yU9MziSGPs82Y3iyMYvOFLUPMXNNSpYOAYzKRbnOIw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdkL01pY3Jvc29m/dF8uTkVUX2xvZ28u/c3Zn" style="width:40px; ">  
 
  <div>
 
